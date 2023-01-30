@@ -1,7 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caracol_Radio_logo.svg/1200px-Caracol_Radio_logo.svg.png" group-title="Radio Colombia" audio-track="esp",Caracol Radio
+#  Radio Channels
+
+#EXTINF:-1  radio="true" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caracol_Radio_logo.svg/1200px-Caracol_Radio_logo.svg.png" group-title="Radio Colombia" audio-track="esp",Caracol Radio
 https://24403.live.streamtheworld.com/CARACOL_RADIO.mp3
+
+#  TV Channels
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/ff189ab/2147483647/strip/true/crop/1000x716+0+0/resize/1000x716!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fbluradio%2Flogo_de_caracol_television.png" group-title="TV Colombia" audio-track="esp",Caracol TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 tvg-id="Cablenoticias.co" status="timeout",Cablenoticias (Bogotà | Cundinamarca) (1080p)
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalCapital.co" status="timeout",Canal Capital (1080p)
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedPlus.co" status="blocked",Red+ [Geo-blocked]
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 tvg-id="Trece.co" status="timeout",Trece (1080p)
+https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrecePlus.co" status="timeout",Trece + (1080p)
+https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" status="timeout",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+
+# Others
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" status="timeout",AdultIPTV.net Anal (720p)
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" status="timeout",AdultIPTV.net Asian (720p)
+http://cdn.adultiptv.net/asian.m3u8
