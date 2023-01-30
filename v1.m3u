@@ -28,11 +28,3 @@ https://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" status="timeout",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
-
-# Others
-
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" status="timeout",AdultIPTV.net Anal (720p)
-http://cdn.adultiptv.net/anal.m3u8
-
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" status="timeout",AdultIPTV.net Asian (720p)
-http://cdn.adultiptv.net/asian.m3u8
